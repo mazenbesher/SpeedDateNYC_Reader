@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="com.google.maps:google-maps-services:0.1.9" type="repository">
+    <properties maven-id="com.google.maps:google-maps-services:0.1.9" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/maps/google-maps-services/0.1.9/google-maps-services-0.1.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp/okhttp/2.0.0/okhttp-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.0.0/okio-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.4/joda-time-2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/maps/google-maps-services/0.1.9/google-maps-services-0.1.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp/okhttp/2.0.0/okhttp-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.0.0/okio-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.4/joda-time-2.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/maps/google-maps-services/0.1.9/google-maps-services-0.1.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp/okhttp/2.0.0/okhttp-2.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.0.0/okio-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.4/joda-time-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
